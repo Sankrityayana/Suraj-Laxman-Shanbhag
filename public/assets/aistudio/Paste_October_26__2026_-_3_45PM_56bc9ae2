@@ -1,0 +1,642 @@
+# MASTER PROMPT: BUILD MY COMPLETE PERSONAL PORTFOLIO WEBSITE
+
+## 1. ROLE AND OBJECTIVE
+
+Act as a senior product designer, UI/UX specialist, frontend architect, software engineer, accessibility specialist, technical SEO specialist, and professional personal-branding strategist.
+
+Your task is to plan and subsequently build a complete, polished, production-quality personal portfolio website for me: Suraj Laxman Shanbhag.
+
+This is a real professional portfolio intended to be viewed by recruiters, talent acquisition teams, hiring managers, cybersecurity professionals, and software engineers.
+
+My primary career objective is to establish credibility for entry-level cybersecurity, SOC Analyst, and Security Operations (SecOps) opportunities. My broader technical background includes software development, AI/ML, automation, and data analysis.
+
+The website must communicate technical competence through genuine projects, documented work, practical labs, source code, and verified qualifications.
+
+I do not want a generic portfolio template with my name inserted. I want a cohesive, custom-designed website that reflects my actual background and professional direction.
+
+## 2. WORKFLOW INSTRUCTIONS
+
+We are currently in PLAN MODE.
+
+First, inspect the existing repository and produce a comprehensive implementation plan.
+
+Do not modify files, install packages, change configurations, delete files, or implement features while planning.
+
+After presenting the plan, stop and wait for my approval.
+
+Once approved, implement the website in the existing repository. I will handle pushing the code to GitHub and deploying it myself.
+
+Do not make deployment, GitHub publishing, domain purchasing, or hosting configuration the focus of this task. You may make the application deployment-ready and document any build requirements.
+
+## 3. PERSONAL INFORMATION AND BACKGROUND
+
+Use the following information as the initial source of truth. Preserve factual accuracy and ask me to confirm ambiguous details before publishing them.
+
+### Identity
+- Full name: Suraj Laxman Shanbhag.
+- Location: Karwar, Karnataka, India.
+- Education: B.Tech in Artificial Intelligence and Machine Learning, Presidency University, Bengaluru.
+- Graduation status: Degree completed in 2026.
+- Professional stage: Early-career candidate / fresher.
+- Primary professional direction: Cybersecurity, SOC operations, SecOps, and security analysis.
+- Additional technical interests: Software engineering, automation, AI/ML, and data-driven applications.
+
+Do not invent my graduation date, GPA, academic awards, employment history, or professional experience.
+
+### Career positioning
+
+My primary target roles are:
+- SOC Analyst — entry level.
+- Security Operations / SecOps Analyst — entry level.
+- Junior Cybersecurity Analyst.
+- Security Monitoring Analyst.
+- Junior Security Analyst.
+- Related entry-level security operations roles.
+
+My geographic preference is Bengaluru, India, with remote roles also considered.
+
+The portfolio must position me as a technically capable early-career candidate who is actively developing practical security skills. Do not present me as an experienced security engineer, senior analyst, penetration tester, incident responder, or threat hunter unless supported by real evidence.
+
+My software development and AI/ML background should strengthen my cybersecurity profile rather than distract from it.
+
+### Professional identity
+
+Communicate these themes where supported by the evidence:
+- Practical, hands-on learning.
+- Technical problem-solving.
+- Structured investigation and analytical thinking.
+- Building and documenting projects.
+- Understanding how systems, networks, applications, and security controls work.
+- Applying programming and automation to technical problems.
+- Continued development toward security operations and detection-related work.
+
+Avoid empty claims such as "cybersecurity expert," "elite hacker," "industry-leading engineer," or "highly experienced professional."
+
+## 4. TECHNICAL SKILLS AND TOOLS
+
+The following technologies have appeared in my previous technical work and learning. Treat them as candidate skills, not automatic proof of mastery. Inspect available code and ask me to confirm the skills I want published.
+
+### Programming and web development
+- Python.
+- JavaScript.
+- Java.
+- HTML and CSS.
+- React.
+- Next.js.
+- TypeScript.
+- FastAPI.
+- REST APIs.
+- Git and GitHub.
+- SQL and SQLite where supported by actual work.
+
+### Data science and AI/ML
+- NumPy.
+- Pandas.
+- Matplotlib.
+- Scikit-learn.
+- Machine learning and deep learning.
+- Natural language processing.
+- Sentence Transformers.
+- Retrieval-Augmented Generation (RAG).
+- Vector databases.
+- LangChain.
+- LlamaIndex.
+- FAISS.
+- ChromaDB.
+- Hugging Face.
+- Ollama.
+- Uvicorn.
+- Model and API integration.
+
+### Cybersecurity and systems
+
+My cybersecurity learning and practical interests include:
+- Security Operations Center workflows.
+- Security monitoring.
+- SIEM and log management.
+- Alert triage.
+- Log analysis.
+- Network fundamentals.
+- Network traffic analysis.
+- Attack detection and analysis.
+- Incident response fundamentals.
+- Windows operating systems.
+- Linux fundamentals and command-line tools.
+- Security fundamentals.
+- Network security.
+- OWASP Top 10.
+- Security investigations and hands-on labs.
+
+Potential tools and learning environments include:
+- TryHackMe.
+- Splunk.
+- Microsoft Sentinel.
+- Wireshark and related packet-analysis tools, if verified.
+- Windows and Linux command-line utilities.
+- GitHub.
+- Python-based analysis tools.
+
+Important: Do not claim experience with a tool merely because it appears in this list. Verify it through actual projects, lab records, repositories, or my confirmation. Distinguish theoretical knowledge, guided labs, independent practice, and real project implementation.
+
+Do not display skill percentages or arbitrary progress bars.
+
+Organize the skills section around what I can demonstrate, not the number of technologies I can list.
+
+## 5. EDUCATION, CERTIFICATIONS, AND LEARNING
+
+My education:
+- B.Tech in Artificial Intelligence and Machine Learning.
+- Presidency University, Bengaluru.
+- Degree completed in 2026.
+
+Relevant certifications, specializations, and courses previously reported include:
+
+1. Google Cybersecurity Professional Certificate.
+2. Google Network Security Specialization.
+3. OWASP Top 10 – 2021 Specialization by Infosec.
+4. Meta Programming with JavaScript.
+5. Meta Version Control.
+6. IBM Develop Generative AI Applications.
+7. IBM Build RAG Applications.
+8. IBM Vector Databases for RAG.
+9. Linux Essential Commands.
+
+Other learning areas or courses under consideration have included:
+- Cybersecurity in the AI Era.
+- Security technology and governance.
+- Linux system administration.
+- Cisco networking and network security.
+- SIEM and SOC analyst training.
+- Google Security Operations.
+- TryHackMe SOC Level 1 learning path and associated rooms.
+- Compliance and security governance.
+
+These records are not all guaranteed to have the same completion status as of today.
+
+Before displaying a credential:
+- Verify its exact official name.
+- Confirm whether it is completed, in progress, or merely planned.
+- Confirm the issuing organization.
+- Add the credential URL only if supplied or verified.
+- Add a completion date only if known.
+
+Never describe an in-progress course as completed. Never invent certificate IDs, credential URLs, issue dates, expiry dates, or badges.
+
+If verification is unavailable, leave the item unpublished until I confirm it.
+
+### Learning platform and hands-on practice
+
+I have used or explored Coursera and TryHackMe for structured learning and practical cybersecurity training.
+
+Previously reported TryHackMe activity includes:
+- Pre Security learning.
+- Computer fundamentals.
+- Client-server basics.
+- Virtualization basics.
+- Cloud computing fundamentals.
+- Operating systems fundamentals.
+- Windows fundamentals.
+- Windows command line.
+- Cybersecurity 101.
+- SOC Level 1-related material.
+- SIEM and log-management learning.
+- Network traffic analysis challenges.
+
+Room completion and pathway completion must be verified before publication. Do not invent a current completion percentage, streak, rank, points total, badge, or leaderboard position.
+
+The portfolio may include a practical learning section documenting selected completed labs, the skills practiced, the investigation approach, and what I learned.
+
+Only include labs for which the relevant details can be substantiated.
+
+## 6. PROJECTS AND TECHNICAL WORK
+
+Potential projects from my background are listed below. These are candidates to investigate, not permission to claim that every project is finished or publicly available.
+
+Inspect the repositories, source code, README files, screenshots, documentation, and existing deployment evidence before deciding what to publish.
+
+### Project A: AI-Based Network Attack Forecasting from Network Traffic Data
+- Problem area: Network traffic analysis and security-related forecasting.
+- A previously referenced problem statement identifier is 26153.
+- A dataset considered during development was CTU-IDSEVAL-6, published on Zenodo in 2026, containing packet data and Zeek logs according to prior research.
+- An older dataset considered was CIC-IDS-2017.
+- Potential technical themes: dataset inspection, network telemetry, traffic feature analysis, detection or forecasting methodology, machine learning, and security evaluation.
+
+Do not assume that either dataset is the final dataset. Verify the implementation and dataset provenance.
+
+Do not call a project a working attack predictor, production IDS, or validated forecasting system unless the code and evaluation demonstrate that.
+
+Document the actual problem, methodology, architecture, results, limitations, and my individual contribution.
+
+### Project B: Hiring Radar / TalentLens AI
+A hiring-related AI application previously developed using:
+- Python.
+- FastAPI.
+- Uvicorn.
+- Next.js.
+- React.
+- TypeScript.
+- Sentence Transformers, including all-MiniLM-L6-v2.
+- A candidate dataset previously described as containing approximately 100,000 records.
+
+Verify the actual repository and implementation before mentioning the dataset size or any performance results.
+
+Potential themes include candidate matching, information retrieval, ranking, AI-assisted recruitment, and full-stack application development.
+
+Do not imply that the system has been adopted by a real company or used in production unless verified.
+
+### Project C: RAG Question-Answering Chatbot
+Potential technologies from my previous work include:
+- Python.
+- Retrieval-Augmented Generation.
+- Embeddings.
+- Vector databases.
+- FAISS or ChromaDB.
+- LangChain or LlamaIndex.
+- Hugging Face or local models.
+
+Inspect the actual implementation. Explain the architecture and data flow only to the extent supported by the code.
+
+### Project D: Social Story Studio
+A previously discussed application with:
+- Next.js.
+- React.
+- TypeScript.
+- Tailwind CSS.
+- FastAPI.
+- SQLite.
+- SQLAlchemy.
+- Pydantic.
+
+Verify the current state of the repository and determine whether this project is complete, in progress, or experimental.
+
+### Other potential projects
+- Ads Click-Through Rate Forecasting.
+- Feature Flag Management System.
+- Multilingual Customer Support Chatbot.
+- Yoga Posture Correction using Computer Vision.
+- JnanaSetu student opportunity portal.
+- Other AI/ML, software development, and security projects that can be verified from my repositories.
+
+Do not feature every project merely to make the website appear larger.
+
+Choose a smaller set of strong, genuine projects that demonstrate depth, technical reasoning, implementation, and evidence.
+
+### Required project presentation
+
+Each featured project should include, where applicable:
+- Project title.
+- Short, precise summary.
+- Problem being addressed.
+- Why the problem matters.
+- My actual contribution.
+- Current status.
+- Technologies actually used.
+- Architecture diagram or workflow.
+- Key implementation decisions.
+- Data sources and provenance.
+- Results and evaluation methodology.
+- Limitations and known issues.
+- Screenshots or demo video if available.
+- GitHub repository link.
+- Live demo link if one genuinely exists.
+- Documentation or technical write-up.
+
+Clearly label projects as:
+- Completed.
+- In progress.
+- Experimental / prototype.
+- Learning lab.
+
+Do not display planned work as a completed project.
+
+Do not fabricate GitHub repositories, URLs, demo links, architecture diagrams presented as implemented systems, screenshots, performance figures, model accuracy, user counts, or business impact.
+
+If the repository is private or no public demo exists, provide a truthful presentation without pretending otherwise.
+
+## 7. CYBERSECURITY LABS AND TECHNICAL WRITE-UPS
+
+This section is important because I am targeting early-career SOC/SecOps roles.
+
+Design a section for selected security investigations and practical lab reports.
+
+Potential content includes:
+- SIEM alert investigation.
+- Log-source analysis.
+- Network traffic inspection.
+- Suspicious event analysis.
+- Windows or Linux security fundamentals.
+- Detection logic and query development.
+- Incident investigation methodology.
+- Network attack analysis.
+- Security control and vulnerability analysis.
+
+Only publish an investigation if there is sufficient real evidence to explain what was done.
+
+Each write-up should ideally describe:
+1. Scenario and objective.
+2. Environment and tools.
+3. Data or logs examined.
+4. Investigation steps.
+5. Relevant queries, filters, or commands.
+6. Findings and supporting evidence.
+7. Reasoning and interpretation.
+8. Conclusion and limitations.
+9. Lessons learned.
+
+Clearly distinguish simulated lab environments from real incidents and professional experience.
+
+Do not publish leaked data, credentials, sensitive system information, private IP details that create a real security risk, or exploit instructions directed at unauthorized targets.
+
+Never claim to have investigated a real company incident when the work was a training exercise.
+
+## 8. PERSONAL BRANDING AND CONTENT STYLE
+
+My preferred communication style is:
+- Direct.
+- Professional.
+- Technically grounded.
+- Authentic.
+- Specific.
+- Evidence-based.
+- Free from unnecessary motivational language.
+
+My portfolio must not read like generic AI-generated marketing copy.
+
+Avoid phrases such as:
+- "Passionate tech enthusiast on a journey."
+- "Revolutionizing the future with technology."
+- "Cutting-edge solutions that transform industries."
+- "Expert in every modern technology."
+
+Prefer concise statements that connect technical interests with actual work.
+
+My broader professional story is the combination of an AI/ML academic background, software development experience through projects, and deliberate development toward cybersecurity and security operations.
+
+Communicate this transition naturally without making unsupported claims about employment, professional experience, or completed security investigations.
+
+Use my real name professionally. Do not use a gaming username or unrelated online alias as the main portfolio identity.
+
+## 9. WEBSITE DESIGN AND USER EXPERIENCE
+
+Create a polished, custom design that feels appropriate for technical recruiters and engineering teams.
+
+Preferred direction:
+- Modern, premium, minimal, technically sophisticated.
+- Dark theme as the primary design.
+- Optional light theme if it can be implemented cleanly.
+- Strong typography.
+- Excellent spacing and visual hierarchy.
+- Restrained accent colors.
+- Clear navigation.
+- Purposeful animations.
+- Strong readability.
+- High-quality mobile experience.
+
+Possible visual elements:
+- Subtle terminal-inspired motifs.
+- Network and system diagrams.
+- Project architecture illustrations.
+- Carefully designed technical badges.
+- Genuine screenshots of projects and tools.
+- Small interactive components that explain technical work.
+
+Avoid:
+- Generic hacker stock photographs.
+- Fake terminal sessions.
+- Fabricated SOC dashboards.
+- Fake command output.
+- Excessive neon green.
+- Excessive glassmorphism.
+- Unnecessary 3D effects.
+- Heavy animations.
+- Fake statistics.
+- Decorative proficiency meters.
+- Unnecessary loading screens.
+- Unusable mobile navigation.
+
+Design a distinctive hero section that immediately communicates my name, cybersecurity focus, and technical background.
+
+Use a consistent design system for colors, typography, spacing, buttons, cards, section layouts, and responsive behavior.
+
+## 10. REQUIRED INFORMATION ARCHITECTURE
+
+Recommend a sensible page structure, prioritizing a fast, maintainable implementation.
+
+### Home
+- Professional introduction.
+- Cybersecurity and SOC/SecOps positioning.
+- Short summary of my technical background.
+- Selected projects.
+- Verified practical security work.
+- Core technical areas.
+- Links to GitHub, LinkedIn, and resume if supplied.
+- Contact call to action.
+
+### About
+- Education.
+- Technical background.
+- Career direction.
+- Transition from AI/ML and software development toward cybersecurity.
+- Practical learning approach.
+- Relevant volunteering or leadership experience only if verified and useful.
+
+### Projects
+- Curated collection of real projects.
+- Meaningful project categories.
+- Accurate project status.
+- Repository and demo links when available.
+- Individual detail pages for substantial projects.
+
+### Security Labs / Write-ups
+- Selected practical investigations.
+- Tool and methodology explanations.
+- Evidence-backed findings.
+- Clear distinction between labs and professional incidents.
+
+### Skills
+- Cybersecurity.
+- Networking and operating systems.
+- SIEM and log analysis.
+- Programming and scripting.
+- Software engineering.
+- AI/ML and data science.
+- Development tools.
+
+### Certifications and Learning
+- Verified credentials.
+- Completed versus in-progress learning.
+- Links to official credential pages where available.
+- Practical evidence alongside learning credentials.
+
+### Resume
+- Accessible resume page or a clean HTML representation.
+- PDF download only when I supply the actual resume.
+- No invented career history.
+
+### Contact
+- GitHub.
+- LinkedIn.
+- Professional email if supplied.
+- Optional contact form only if securely and reliably implemented.
+
+You may consolidate sections or use a well-designed single-page layout if it provides a better recruiter experience. Explain the reasoning before implementation.
+
+## 11. PERSONAL INFORMATION AND EXTERNAL LINKS
+
+The following links are not currently confirmed in this specification:
+- GitHub profile URL.
+- LinkedIn profile URL.
+- Existing portfolio URL.
+- Professional contact email.
+- Resume PDF.
+- Individual project repositories.
+- Live project demos.
+- Certificate verification links.
+
+Inspect the repository for existing valid links. Ask me to supply anything missing.
+
+Do not invent or guess these URLs.
+
+Do not expose private contact details, local file paths, environment variables, API keys, tokens, or credentials.
+
+Do not automatically publish personal information simply because it exists in a local repository.
+
+## 12. TECHNICAL REQUIREMENTS
+
+Inspect the current repository before recommending an architecture.
+
+Preserve a working existing stack unless a change is justified.
+
+If no established stack exists, recommend a modern, maintainable solution appropriate for a personal portfolio.
+
+Requirements:
+- Responsive layout.
+- Semantic HTML.
+- Accessible navigation.
+- Keyboard accessibility.
+- Proper focus indicators.
+- Sufficient color contrast.
+- Responsive typography.
+- Optimized images.
+- Appropriate loading and error states.
+- Clean component architecture.
+- Reusable project and credential data structures.
+- Meaningful page titles and metadata.
+- Open Graph and social sharing metadata.
+- Favicon and suitable site identity.
+- Sitemap and robots configuration when appropriate.
+- Appropriate canonical URL configuration once the actual domain is known.
+- Sensible 404 handling.
+- No broken internal links.
+- No console errors.
+- No unnecessary dependencies.
+- No exposed secrets.
+- No unnecessary backend, database, authentication, or content management system.
+- Build compatibility with a standard production deployment.
+
+Use the smallest architecture that can support the required experience properly.
+
+If the current repository already contains a project, inspect its package files, components, routes, styles, assets, README, and configuration before proposing changes.
+
+## 13. SEO, PERFORMANCE, AND ACCESSIBILITY
+
+Plan for:
+- Semantic headings.
+- Search-friendly page titles and descriptions.
+- Appropriate social preview images.
+- Descriptive link text.
+- Accessible image alternative text.
+- Keyboard navigation.
+- Reduced-motion support.
+- Appropriate color contrast.
+- Optimized assets.
+- Minimal client-side JavaScript where practical.
+- Avoiding layout shifts.
+- Sensible caching and rendering strategies.
+- Performance testing after implementation.
+
+Do not promise particular Lighthouse scores without testing.
+
+## 14. FUNCTIONAL REQUIREMENTS
+
+Every visible interactive element must work.
+
+Examples:
+- Navigation links must navigate correctly.
+- Project filters must filter projects correctly if included.
+- Theme toggle must actually change the theme if included.
+- Resume download must point to the real supplied document.
+- Repository and social links must be verified.
+- Contact links must use valid supplied details.
+- Buttons must have meaningful actions.
+- Mobile navigation must work.
+- Animations must not block interaction.
+
+Do not add fake interactive controls or buttons with no implementation.
+
+Avoid a contact form if it would require a backend or external service that I have not configured. A working email link is an acceptable alternative.
+
+## 15. IMPLEMENTATION AND VALIDATION
+
+After I approve the plan:
+1. Build the agreed website.
+2. Implement the visual design and responsive layouts.
+3. Integrate real personal and project information.
+4. Create genuine project detail pages where appropriate.
+5. Add metadata, accessibility features, and necessary site assets.
+6. Run the available linting and production build checks.
+7. Fix issues discovered during validation.
+8. Verify internal navigation and links.
+9. Report any missing assets, content, or credentials that prevent completion.
+10. Provide a concise list of the completed features and remaining actions.
+
+Do not claim a check passed if it was not run successfully.
+
+Do not replace existing working functionality without understanding its purpose.
+
+Do not make unrelated changes to other projects or files.
+
+## 16. FINAL CONTENT ACCURACY RULES
+
+These requirements override any design or marketing preference.
+
+- Never fabricate personal information.
+- Never invent qualifications.
+- Never fabricate work experience.
+- Never invent employment or internship history.
+- Never invent certificates or claim planned courses are completed.
+- Never fabricate project repositories or links.
+- Never invent project outcomes, metrics, model accuracy, or user counts.
+- Never describe an unfinished prototype as production-ready.
+- Never claim expertise without supporting evidence.
+- Never misrepresent a guided lab as professional experience.
+- Never imply a project is deployed unless verified.
+- Never invent endorsements, testimonials, or employer affiliations.
+- Never include a false hiring status or availability claim.
+- Never expose secrets or confidential data.
+
+If information is missing, ask me. If a detail cannot be verified, omit it or mark it clearly as pending confirmation in the planning document. Do not put obvious placeholders, invented content, or unfinished template copy into the final published experience.
+
+## 17. PLAN MODE DELIVERABLE
+
+Before implementation, provide:
+
+1. Repository and technology audit.
+2. Recommended design direction.
+3. Sitemap and navigation.
+4. Proposed homepage structure.
+5. Component and file architecture.
+6. Proposed project shortlist based on available evidence.
+7. Skills, education, certification, and lab content strategy.
+8. Required information that I must confirm.
+9. Accessibility, SEO, and performance plan.
+10. Testing and quality-assurance plan.
+11. Prioritized implementation sequence.
+12. Risks, dependencies, and potential blockers.
+
+Separate the work into:
+- Phase 1: Essential portfolio that can be published with verified content.
+- Phase 2: Additional project detail pages, security write-ups, and visual enhancements.
+- Phase 3: Optional improvements that genuinely add value.
+
+Do not begin implementation until I explicitly approve the plan.
